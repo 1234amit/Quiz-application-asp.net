@@ -18,5 +18,5 @@ This is a simple Quiz Application built using **ASP.NET Core MVC**. It allows us
 - Razor Pages
 - Bootstrap 5
 
-## 📂 Project Structure
+
 
